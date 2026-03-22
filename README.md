@@ -88,7 +88,7 @@ V4 training with 5-fold CV for all 4 model configurations takes approximately 10
 
 ## Project Template
 
-CM3015 Machine Learning and Neural Networks - Project Idea 2: Deep Learning Breast Cancer Detection
+CM3015 3. Machine Learning and Neural Networks - Project Idea 3.2: Deep Learning Breast Cancer Detection
 
 ## License
 
